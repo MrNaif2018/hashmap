@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.o
+main
+groupstats
+test
+hashmap
+myhashmap
+250*.csv
